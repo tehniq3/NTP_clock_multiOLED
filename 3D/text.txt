@@ -1,0 +1,5 @@
+Picior = leg
+Talpa = Foot
+Fata = face
+Spate - backside
+Carcasa = case
