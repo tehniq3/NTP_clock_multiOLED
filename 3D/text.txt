@@ -2,4 +2,6 @@ Picior = leg
 Talpa = Foot
 Fata = face
 Spate - backside
-Carcasa = case
+Cutie = case
+
+original design by zvonacfirst
